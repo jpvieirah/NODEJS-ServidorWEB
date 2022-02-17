@@ -1,0 +1,22 @@
+{
+  "name": "servidor-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpvieirah/NODEJS-ServidorWEB.git"
+  },
+  "author": "JOAO PEDRO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpvieirah/NODEJS-ServidorWEB/issues"
+  },
+  "homepage": "https://github.com/jpvieirah/NODEJS-ServidorWEB#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
